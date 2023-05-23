@@ -1,0 +1,13 @@
+/dist/*
+/dist-electron/**
+/electron/**
+.local
+.github
+.vscode
+.output.js
+/node_modules/**
+
+**/*.svg
+**/*.sh
+
+/public/*
