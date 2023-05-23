@@ -1,17 +1,11 @@
-## 快速开始
+## 提交
 
 ```sh
-# 下载项目
-download zip
+git add .
 
-# 安装依赖
-yarn
+npm run commit
 
-# 启动
-yarn dev
+git push
 ```
 
-## 预览
-
-![预览图](readme-preview.png)
 
